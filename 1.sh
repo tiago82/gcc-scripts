@@ -22,6 +22,10 @@ git config --global color.ui true
 python3 $HOME/bin/repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
 
 
+python3 $HOME/bin/repo sync --current-branch --force-sync --no-clone-bundle --no-tags --optimized-fetch --prune -j32
+#https://gerrit.googlesource.com/git-repo/+/master/subcmds/sync.py
+
+
 
 
 
