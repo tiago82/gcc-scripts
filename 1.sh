@@ -16,6 +16,8 @@ cd $HOME/los
 
 rm -rf frameworks/base
 
+git config --global user.name "Fulano de Tal" && git config --global user.email fulanodetal@exemplo.pt
+
 python3 $HOME/bin/repo init -u git://github.com/LineageOS/android.git -b lineage-19.1
 
 
