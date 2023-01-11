@@ -10,4 +10,5 @@ git clone https://github.com/LineageOS/android_kernel_samsung_universal7580 kern
 git clone https://github.com/TheMuppets/proprietary_vendor_samsung/ -b lineage-18.1  vendor/samsung/
 
 cd $HOME/los
+source build/envsetup.sh
 breakfast j7elte
