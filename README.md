@@ -17,3 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/tiago82/gcp-scripts/main/3.sh)
 j700 18.1: 
 
 bash <(curl -s https://raw.githubusercontent.com/tiago82/gcp-scripts/main/j700-18-1.sh)
+
+j700 20.0: 
+
+bash <(curl -s https://raw.githubusercontent.com/tiago82/gcp-scripts/main/j700-20-0.sh)
