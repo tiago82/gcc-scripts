@@ -26,6 +26,6 @@ git clone https://github.com/TheMuppets/proprietary_vendor_samsung/ -b lineage-1
 
 
 source build/envsetup.sh
-chroot
 breakfast j7elte
+chroot
 brunch j7elte
