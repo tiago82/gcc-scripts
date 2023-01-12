@@ -10,6 +10,7 @@ cd $HOME/los
 git clone https://github.com/tiago82/android_device_samsung_j7elte device/samsung/j7elte
 git clone https://github.com/tiago82/android_device_samsung_universal7580-common device/samsung/universal7580-common
 
+rm -rf hardware/samsung
 
 git clone https://github.com/LineageOS/android_hardware_samsung hardware/samsung
 git clone https://github.com/LineageOS/android_hardware_samsung_nfc hardware/samsung/nfc
