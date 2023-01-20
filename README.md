@@ -22,4 +22,6 @@ j700 20.0:
 
 bash <(curl -s https://raw.githubusercontent.com/tiago82/gcp-scripts/main/j700-20-0.sh)
 
+123
+
 
